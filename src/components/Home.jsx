@@ -7,10 +7,10 @@ const Home = () => {
     <div name="home" className="bg-[#0a192f] w-full h-screen">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-red-600 text-lg">Hi, my name is </p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#ccd6f6]">
           Daniel Anandha Geethan
         </h1>
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
+        <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#8892b0]">
           I'm a Developer and Machine Learning Engineer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
