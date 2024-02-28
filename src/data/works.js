@@ -1,9 +1,9 @@
 import dds from "../assets/dds.jpg";
 import ai from "../assets/ai.jpg";
-import lms from "../assets/lms.jpg";
+import smoothie_app from "../assets/smoothie_app.jpg";
 import object_finder from "../assets/object_finder.jpg";
 import restaurant_prediction from "../assets/restaurant_prediction.jpg";
-import restaurant from "../assets/restaurant.jpg";
+import missing_word_prediction from "../assets/missing_word_prediction.jpg";
 
 const works = [
   {
@@ -20,9 +20,9 @@ const works = [
   },
   {
     id: 3,
-    image: lms,
-    title: "Library Management System",
-    link: "https://github.com/danielAnandhaGeethan/Library-Management-System",
+    image: missing_word_prediction,
+    title: "Missing Word Prediction",
+    link: "https://github.com/danielAnandhaGeethan/Missing-Word-Prediction",
   },
   {
     id: 4,
@@ -38,9 +38,9 @@ const works = [
   },
   {
     id: 6,
-    image: restaurant,
-    title: "Online Restaurant",
-    link: "https://github.com/danielAnandhaGeethan/Online-Restaurant",
+    image: smoothie_app,
+    title: "Smoothie App",
+    link: "https://github.com/danielAnandhaGeethan/Smoothie-App",
   },
 ];
 
