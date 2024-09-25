@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am a final year B.Tech student, pursuing a degree in Computer
+              I am a software developer working in Zoho. I completed my B.Tech undergratuate studies in Computer
               Science with Artificial Inteligence and Machine Learning. I am a
               very determined person who has the Ideology of giving the best in
               everything I do. I like to learn and explore new things. I have
